@@ -1,0 +1,39 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: xx-large;
+    color: whitesmoke;
+    width: 1300px;
+    border: 100px solid yellow;
+    padding: 100px;
+    margin: 20px;
+    border-radius: 100px;
+}
+
+body {
+    background-color: burlywood;
+}
+
+p{
+    border-radius: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-size: x-large;
+}
+
+nav {
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+
+<img{
+    src: url(Benjamin Uloko.jpg);
+    style= "height":50%; max-width: 100%;
+
+}
