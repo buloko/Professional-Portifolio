@@ -7,7 +7,6 @@ h1 {
     border: 100px solid yellow;
     padding: 100px;
     margin: 20px;
-    border-radius: 100px;
 }
 
 body {
@@ -32,9 +31,8 @@ nav {
     font-size: larger;
 }
 
-<img{
-    src: url(Benjamin Uloko.jpg);
-    style= "height":50%; max-width: 100%;
+img{
+
 
 }
 
