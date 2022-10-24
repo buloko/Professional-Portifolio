@@ -1,7 +1,7 @@
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
-    font-size: xx-large;
+    font-size: 80px;
     color: whitesmoke;
     width: 1300px;
     border: 100px solid yellow;
@@ -14,7 +14,7 @@ body {
     background-color: burlywood;
 }
 
-p{
+aside{
     border-radius: 20px;
     font-weight: bold;
     text-align: center;
@@ -39,5 +39,6 @@ nav {
 }
 
 h2{
+    float: right;
 
 }
