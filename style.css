@@ -1,12 +1,21 @@
-h1 {
-    /* text-decoration: underline; */
 
-}
 
 body {
     background-color:lightsalmon;
 }
-{
 
+#AboutMe{
+    font-weight:bold;
+
+}
+#MyWork{
+    text-align: center;
+    font-weight:bold;
+    
+}
+
+#greeting{
+    font-size: xx-large;
+    font-weight:bold;
 }
 
