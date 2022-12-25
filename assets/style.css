@@ -1,29 +1,35 @@
 
 
 body {
-    background-color:lightsalmon;
+    background-color:saddlebrown;
 }
+
 
 #AboutMe{
     font-weight:bold;
+    text-align: left;
+    display: flex;
+    justify-content: center;
 }
 #MyWork{
-    text-align: center;
     font-weight:bold;
-
+    /* text-align: center; */
 }
 #ContactMe{
-    text-align: right;
     font-weight: bold;
+    /* text-align:justify */
 }
 
 #greeting{
     font-size: xx-large;
     font-weight:bold;
+    border-style: solid;
+    border-width: medium;
+    border-color:yellow
 }
 
 .button{
-    background-color: #1c87c9;
+    background-color: gold;
         border: none;
         color: white;
         padding: 20px 34px;
